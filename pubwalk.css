@@ -1,0 +1,73 @@
+body
+{
+background-color: white;
+}
+#header{
+font-family: arial;
+font-size: 1.6em;
+width: 600px;
+padding: 5px;
+float:left;
+}
+#title{
+font-family: arial;
+font-size: 1.0em;
+float: left;
+}
+#markerKey{
+float: left;height: 25px;
+padding-top:15px;
+}
+.td-desc, #markerKey{
+font-size: 0.8em;
+font-family: arial;
+}
+.contentWindow, .contentParagraph
+{
+padding: 5px;
+overflow: visible;
+font-family: arial;
+font-size: 0.8em;
+}
+.contentParagraph
+{
+float: left;
+width: 845px;
+}
+.contentWindowSpan
+{
+font-weight: bold;
+}
+.contentImage
+{
+float: left;
+padding: 5px;
+}
+div#container
+{
+width: 850px;
+height: 450px;
+background-color:#EBFAED;
+margin: auto;
+padding: 2px;
+border: 2px solid black;
+}
+div#map-canvas
+{
+width: 400px;
+height: 260px;
+float: left;
+margin: 10px;
+}
+div#street-canvas
+{
+width: 400px;
+height: 260px;
+float: left;
+margin: 10px;
+}
+div#table-div
+{
+width: 830px;
+float: left;
+}

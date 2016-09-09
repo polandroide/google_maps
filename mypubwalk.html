@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Eating in Charminster</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="mypubwalk.js"></script>
+<link rel="stylesheet" type="text/css" href="pubWalk.css" />
+</head>
+<body onload="pubWalk.init();">
+	<div id="container">
+		<div id="header">Places to Eat and Drink in Charminster</div>
+		<div id="markerKey">
+			visited places: <img height="20" width="20" src="http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png" alt="icon showing visited places">
+			unvisited places: <img height="20" width="20" src="http://www.google.com/intl/en_us/mapfiles/ms/micons/red-pushpin.png" alt="icon showing unvisited places">
+		</div>
+		<div id="street-canvas"></div>
+		<div id="map-canvas"></div>
+		<div class="contentParagraph"><span id="pub-desc">-</span></div>
+		<div id="table-div">
+			<table>
+				<tbody id="direction">
+					<tr>
+						<td id="originImg"></td>
+						<td width="630" class="td-desc">
+							<span>The distance from </span>
+							<span id="originName">-</span>
+							<span> to </span>
+							<span id="destinationName">-</span>
+							<span> is </span>
+							<span id="distance">-</span>
+							<span> metres, so it only takes </span>
+							<span id="duration">-</span>
+							<span> seconds to walk there.</span>
+						</td>
+						<td id="destinationImg"></td>				
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>  
+</body>
+</html>
+
+

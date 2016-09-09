@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<publist>
+	<pub id="1">
+		<name>The Dean Court Inn</name>
+		<location>
+			<lat>50.731181</lat>
+			<long>-1.874409</long>
+			<panoid>AJQ58hyk0mW9QnB9sKb1pg</panoid>
+			<heading>125.19</heading>
+			<pitch>-6.49</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A good family pub with a pool table and a dart board. The food is pretty good, as well.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="2">
+		<name>Breeze</name>
+		<location>
+			<lat>50.734452</lat>
+			<long>-1.869237</long>
+			<panoid>XC-sHLFIRVYqlbNOZvNK8Q</panoid>
+			<heading>341.47</heading>
+			<pitch>2.54</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>It no longer looks like its google image, but it's a good place to go when you're feeling pretentious.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="3">
+		<name>Hadrian's Cafe Grill</name>
+		<location>
+			<lat>50.734965</lat>
+			<long>-1.86823</long>
+			<panoid>Yj3Un_SdP_DKuU67jt8Cag</panoid>
+			<heading>342.46</heading>
+			<pitch>8.35</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>This place has no description.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="4">
+		<name>Peppino's</name>
+		<location>
+			<lat>50.734811</lat>
+			<long>-1.868526</long>
+			<panoid>Fgka3CGzOswozlvlTvszWA</panoid>
+			<heading>341.66</heading>
+			<pitch>5.84</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>A great Italian restaurant when you wish to impress someone.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="5">
+		<name>Jee Foo</name>
+		<location>
+			<lat>50.734891</lat>
+			<long>-1.868372</long>
+			<panoid>m7_-RUic9vlBuCv0zYf3DA</panoid>
+			<heading>162.87</heading>
+			<pitch>6.74</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>Good Chinese food with very quick delivery service.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="6">
+		<name>Pitstop Pizza</name>
+		<location>
+			<lat>50.734891</lat>
+			<long>-1.868372</long>
+			<panoid>m7_-RUic9vlBuCv0zYf3DA</panoid>
+			<heading>92.95</heading>
+			<pitch>2.4</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="7">
+		<name>Retro</name>
+		<location>
+			<lat>50.735358</lat>
+			<long>-1.867467</long>
+			<panoid>bWf9LPksOVdVnhqVDUxmpg</panoid>
+			<heading>311.87</heading>
+			<pitch>5.1</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A good restaurant with tasty food.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="8">
+		<name>Bar Zuca</name>
+		<location>
+			<lat>50.735115</lat>
+			<long>-1.867942</long>
+			<panoid>nJIVJQ3fIdePQ9w3mooFrg</panoid>
+			<heading>313.7</heading>
+			<pitch>-1.84</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A pub that stays open until early.</desc>
+		<visited visited="visited" />		
+	</pub>	
+	<pub id="9">
+		<name>The Vibe</name>
+		<location>
+			<lat>50.735428</lat>
+			<long>-1.867331</long>
+			<panoid>dYX4HGBhHxP6hIs5-ZCNzQ</panoid>
+			<heading>325.26</heading>
+			<pitch>3.25</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A pub club that is a good place to finish an evening.</desc>
+		<visited visited="visited" />
+	</pub>
+	<pub id="10">
+		<name>Cafe Roma</name>
+		<location>
+			<lat>50.735515</lat>
+			<long>-1.866842</long>
+			<panoid>pfVoAODtERMczOfun1lssQ</panoid>
+			<heading>225.56</heading>
+			<pitch>9.68</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>A good place to go when you have a hangover. Great coffee!</desc>
+		<visited visited="visited" />		
+	</pub>	
+	<pub id="11">
+		<name>Lorenzo's</name>
+		<location>
+			<lat>50.735601</lat>
+			<long>-1.86699</long>
+			<panoid>cXeKrXkiMvnxm8Qxp5tz6Q</panoid>
+			<heading>82.58</heading>
+			<pitch>5.15</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="12">
+		<name>Starz</name>
+		<location>
+			<lat>50.735809</lat>
+			<long>-1.866572</long>
+			<panoid>OxmFzKrQZcuuTUnk4l3-Eg</panoid>
+			<heading>157</heading>
+			<pitch>9.38</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="13">
+		<name>A Take Away</name>
+		<location>
+			<lat>50.735871</lat>
+			<long>-1.866447</long>
+			<panoid>CV7s_lQyTh1A2W-htsWDLg</panoid>
+			<heading>143.26</heading>
+			<pitch>7.67</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="14">
+		<name>SFC Express Chicken</name>
+		<location>
+			<lat>50.73473</lat>
+			<long>-1.868679</long>
+			<panoid>7aJA1rVyLLyQjuf1m-mgHg</panoid>
+			<heading>310.58</heading>
+			<pitch>5.41</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="15">
+		<name>La Rumba</name>
+		<location>
+			<lat>50.735871</lat>
+			<long>-1.866447</long>
+			<panoid>CV7s_lQyTh1A2W-htsWDLg</panoid>
+			<heading>341.45</heading>
+			<pitch>7.01</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="16">
+		<name>Nippon Inn</name>
+		<location>
+			<lat>50.735939</lat>
+			<long>-1.866311</long>
+			<panoid>DzxJQ6XXoA52UtvFWINIgg</panoid>
+			<heading>94.95</heading>
+			<pitch>4.66</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A wonderful Japanese Restaurant, but be sure to book in advance.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="17">
+		<name>Sebis Bar</name>
+		<location>
+			<lat>50.736012</lat>
+			<long>-1.866163</long>
+			<panoid>DJqbCYyn67M8vc5baAKFOw</panoid>
+			<heading>144.66</heading>
+			<pitch>4.67</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>This place remains unvisited</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="18">
+		<name>Anatolia</name>
+		<location>
+			<lat>50.736233</lat>
+			<long>-1.865737</long>
+			<panoid>e5sMGvtgtZTUiOklAWSdmQ</panoid>
+			<heading>154.17</heading>
+			<pitch>-8.49</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>This place remains unvisited</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="19">
+		<name>Bedouin</name>
+		<location>
+			<lat>50.736295</lat>
+			<long>-1.865617</long>
+			<panoid>mp3eKxP74nSdsr6Nyi_1pQ</panoid>
+			<heading>143</heading>
+			<pitch>5.07</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>Great Arabic food and shisha pipes outback.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="20">
+		<name>The Richmond Arms</name>
+		<location>
+			<lat>50.736356</lat>
+			<long>-1.865501</long>
+			<panoid>wUkCiRbFaPncs1uNN7XEfg</panoid>
+			<heading>319.82</heading>
+			<pitch>-6.44</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>Good traditional football TV bar, which serves good food as well.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="21">
+		<name>San Miguel</name>
+		<location>
+			<lat>50.73549</lat>
+			<long>-1.867209</long>
+			<panoid>1l6HO1oEFtvgkgUz463Flw</panoid>
+			<heading>356.12</heading>
+			<pitch>4.22</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>This place remains unvisited.</desc>
+		<visited visited="unvisited" />		
+	</pub>
+	<pub id="22">
+		<name>Pasa</name>
+		<location>
+			<lat>50.7368</lat>
+			<long>-1.864922</long>
+			<panoid>jSjwL_n6ESXELTqwDx4i0A</panoid>
+			<heading>307.03</heading>
+			<pitch>9.4</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>A fantastic Turkish restaurant for those on a budget.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="23">
+		<name>Maru</name>
+		<location>
+			<lat>50.737296</lat>
+			<long>-1.865148</long>
+			<panoid>VDg-1HvpQg_rQIzYyrZ5eg</panoid>
+			<heading>227.45</heading>
+			<pitch>6.54</pitch>
+			<zoom>1</zoom>
+		</location>
+		<desc>A fantastic Korean restaurant, authentic Korean beer sold here.</desc>
+		<visited visited="visited" />		
+	</pub>
+	<pub id="24">
+		<name>The Fiveways</name>
+		<location>
+			<lat>50.743487</lat>
+			<long>-1.861474</long>
+			<panoid>qxBvLDEHalvNY4JFpY53cw</panoid>
+			<heading>326.23</heading>
+			<pitch>-6.56</pitch>
+			<zoom>0</zoom>
+		</location>
+		<desc>A traditional English pub that has an upper class menu.</desc>
+		<visited visited="visited" />		
+	</pub>
+</publist>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="publist">
+	<xs:complexType>
+		<xs:sequence>			
+		<xs:element name="pub" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="name" type="xs:string" />
+						<xs:element name="location">
+							<xs:complexType>
+								<xs:sequence>
+								<xs:element name="lat" type="xs:decimal" />
+								<xs:element name="long" type="xs:decimal" />
+								<xs:element name="panoid" type="xs:string" />
+								<xs:element name="heading" type="xs:decimal" />
+								<xs:element name="pitch" type="xs:decimal" />
+								<xs:element name="zoom">
+									<xs:simpleType>
+										<xs:restriction base="xs:integer">
+											<xs:enumeration value="0" />
+											<xs:enumeration value="1" />
+											<xs:enumeration value="2" />
+											<xs:enumeration value="3" />
+											<xs:enumeration value="4" />
+											<xs:enumeration value="5" />
+										</xs:restriction>
+									</xs:simpleType>
+								</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="desc" type="xs:string" />
+						<xs:element name="visited">
+							<xs:complexType>
+								<xs:attribute name="visited">
+									<xs:simpleType>
+										<xs:restriction base="xs:string">
+											<xs:enumeration value="visited" />
+											<xs:enumeration value="unvisited" />
+										</xs:restriction>
+									</xs:simpleType>
+								</xs:attribute>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				<xs:attribute name="id" type="xs:string" use="required"/>
+				</xs:complexType>
+			</xs:element>		
+			</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
